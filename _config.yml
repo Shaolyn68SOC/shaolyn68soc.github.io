@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Shawn Lynch"
   avatar : "/assets/images/ShaoLyn68SOC.jpg"
-  bio    : "I'm a former Truck Driver.  Now training for a new career as a SOC Analyst."
+  bio    : "I'm a former Truck Driver.  Now, I'm training for a new career as a SOC Analyst."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
